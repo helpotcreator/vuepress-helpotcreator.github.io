@@ -1,0 +1,25 @@
+{
+  "name": "helpotcreator.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "doc": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helpotcreator/helpotcreator.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helpotcreator/helpotcreator.github.io/issues"
+  },
+  "homepage": "https://github.com/helpotcreator/helpotcreator.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
