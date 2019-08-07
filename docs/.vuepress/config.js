@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'VuePress 시작!',
+    title: 'helpotcreator',
     description: 'Hello World',
     themeConfig: {
       nav: [
@@ -18,5 +18,8 @@ module.exports = {
           ]
         }
       ]
+    },
+    markdown: {
+      lineNumbers: true
     }
 }

@@ -1,2 +1,5 @@
 cd..
 sh deploy.sh 
+cd..
+dir
+sh deploy.sh 
